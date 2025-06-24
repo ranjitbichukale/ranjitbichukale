@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 - 👀 I’m interested in **Web Development, Software Engineering, and Open Source Contributions.**
 - 🌱 I’m currently learning **Java Full Stack Development and Data Structures & Algorithms.**
 - 💞️ I’m looking to collaborate on **exciting projects, innovative web applications, and community-driven software.**
-- 📫 How to reach me: **ranjitbichukale@example.com**  
+- 📫 How to reach me:ranjitbichukale@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love solving challenging problems and enjoy contributing to hackathons!**
 
